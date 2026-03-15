@@ -1,0 +1,26 @@
+name: ReportUI
+main: ReportUI\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+
+depend:
+  - FormAPI
+
+commands:
+  report:
+    description: Report a player
+    usage: "/report"
+    permission: report.use
+
+  viewreports:
+    description: View reports
+    usage: "/viewreports"
+    permission: report.view
+
+permissions:
+  report.use:
+    default: true
+
+  report.view:
+    default: op
