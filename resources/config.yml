@@ -1,0 +1,11 @@
+titles:
+  report-form: "&cReport Player"
+  reports-menu: "&6Player Reports"
+  report-details: "&eReport Details"
+
+messages:
+  report-submitted: "&aYour report has been submitted."
+  report-notify: "&c[Report] &f{reported} &7was reported by &f{reporter}"
+  no-reason: "&cYou must enter a reason."
+  no-reports: "&cThere are no reports."
+  report-deleted: "&aReport deleted."
