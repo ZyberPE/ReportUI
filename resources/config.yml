@@ -4,7 +4,7 @@ titles:
   report-details: "&eReport Details"
 
 messages:
-  report-submitted: "&aYour report has been submitted."
+  report-submitted: "&aYour report has been submitted too staff."
   report-notify: "&c[Report] &f{reported} &7was reported by &f{reporter}"
   no-reason: "&cYou must enter a reason."
   no-reports: "&cThere are no reports."
